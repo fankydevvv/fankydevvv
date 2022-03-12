@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: [Hanoi University of Science and Technology](https://hust.edu.vn) (HUST).
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning ** Blockchain, Crypto and Something like that**
 
 
 ## 📫 How to reach me:
