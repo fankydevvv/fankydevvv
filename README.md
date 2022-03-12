@@ -1,5 +1,4 @@
-<h1 align="center"> <img src="https://assets.pinterest.com/ext/embed.html?id=666884657305898404" height="200" width="90" frameborder="0" scrolling="no"> I'm Fanky</h1>
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=666884657305898404" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
+<h1 align="center"> I'm Fanky</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fankymf1" alt="fankymf1" /> <img src="https://badges.pufler.dev/repos/fankymf1" alt="fankymf1" /> </p>
