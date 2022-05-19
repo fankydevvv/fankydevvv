@@ -14,16 +14,16 @@
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/fanky.hientran" alt="Facebook">
-    <img src="https://img.icons8.com/color/64/000000/facebook-circled--v3.png"/>
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
   </a> 
   <a href="https://github.com/fankymf1" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
 
   <a href="mailto:hientranhuu64@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluency/64/000000/mail.png"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
   </a>
     <a href="https://www.instagram.com/fankypowerlifting/" alt="instagram">
-    <img src="https://img.icons8.com/color/64/000000/instagram-new--v2.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
   </a>
     <a>
       <a href="https://twitter.com/HinTrnHu1" alt="twitter">
