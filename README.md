@@ -1,6 +1,6 @@
 <h1 align="center"> <imp src="https://github.com/fankymf1/fankymf1/blob/main/hello-cute.gif"/> I'm Fanky</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A passionate developer from Vietnam </h3>
+<h3 align="center">A Fresher developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fankymf1" alt="fankymf1" /> <img src="https://badges.pufler.dev/repos/fankymf1" alt="fankymf1" /> </p>
 
 - ✍ I'm a student of: [Hanoi University of Science and Technology](https://hust.edu.vn) (HUST).
@@ -25,6 +25,10 @@
     <a href="https://www.instagram.com/fankypowerlifting/" alt="instagram">
     <img src="https://img.icons8.com/color/64/000000/instagram-new--v2.png"/>
   </a>
+    <a>
+      <a href="https://twitter.com/HinTrnHu1" alt="twitter">
+       <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
+    </a>
 </p>
 
 ## Skills:
