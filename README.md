@@ -1,7 +1,7 @@
-<h1 align="center"> <imp src="https://github.com/fankymf1/fankymf1/blob/main/hello-cute.gif"/> I'm Fanky</h1>
+<h1 align="center"> <imp src="https://github.com/fankydevvv/fankydevvv/blob/main/hello-cute.gif"/> I'm Fanky</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A Fresher developer from Vietnam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fankymf1" alt="fankymf1" /> <img src="https://badges.pufler.dev/repos/fankymf1" alt="fankymf1" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fankydevvv" alt="fankydevvv" /> <img src="https://badges.pufler.dev/repos/fankydevvv" alt="fankydevvv" /> </p>
 
 - ✍ I'm a student of: [Hanoi University of Science and Technology](https://hust.edu.vn) (HUST).
 
@@ -16,7 +16,7 @@
   <a href="https://www.facebook.com/fanky.hientran" alt="Facebook">
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
   </a> 
-  <a href="https://github.com/fankymf1" alt="Github">
+  <a href="https://github.com/fankydevvv" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
 
   <a href="mailto:hientranhuu64@gmail.com" alt="Email">
@@ -56,8 +56,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fankymf1&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="fankymf1" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=fankymf1&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="fankymf1" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fankydevvv&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="fankydevvv" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=fankydevvv&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="fankydevvv" width="100%"/>
     </td>
     <td>
       <p align="center"> 
