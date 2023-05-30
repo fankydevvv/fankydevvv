@@ -1,11 +1,11 @@
 <h1 align="center"> <imp src="https://github.com/fankydevvv/fankydevvv/blob/main/hello-cute.gif"/> I'm Fanky</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A Fresher developer from Vietnam </h3>
+<h3 align="center">A Fresher fullstack developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fankydevvv" alt="fankydevvv" /> <img src="https://badges.pufler.dev/repos/fankydevvv" alt="fankydevvv" /> </p>
 
 - ✍ I'm a student of: [Hanoi University of Science and Technology](https://hust.edu.vn) (HUST).
 
-- 🌱 I’m currently learning ** Blockchain, Crypto and Full-stack Developer**
+- 🌱 I’m currently ** a Full-stack Developer and passionate about becoming a Blockchain developer ** 
 
 
 ## 📫 How to reach me:
